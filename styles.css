@@ -8,6 +8,10 @@ h1 {
   font-size: 55px;
 }
 
+h2 {
+  text-decoration: underline;
+}
+
 .recipe-links {
   text-align: center;
 }
