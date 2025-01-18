@@ -20,6 +20,16 @@ h2 {
   display: inline;
 }
 
+.home-recipe-container {
+  display: inline-block; 
+  width: 200px;
+  height: 200px;
+}
+
+.home-image {
+  display: inline;
+}
+
 img {
   display: block;
   margin-left: auto;
