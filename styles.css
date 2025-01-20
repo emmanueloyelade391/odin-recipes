@@ -20,7 +20,8 @@ h2 {
   display: inline;
 }
 
-.home-recipe-container {
+.home-recipe-container-1,.home-recipe-container-2,
+.home-recipe-container-3 {
   display: inline-block; 
   width: 200px;
   height: 200px;
