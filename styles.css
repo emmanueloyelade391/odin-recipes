@@ -68,6 +68,10 @@ img {
   margin-right: 10px;
 }
 
+.big-main-image {
+  border-radius: 5px;
+}
+
 .recipes-background {
   background-color: rgb(184, 231, 247);
 }
