@@ -13,6 +13,15 @@ h2 {
   text-decoration: underline;
 }
 
+a {
+  color: red;
+  font-size: 20px; 
+}
+
+a:hover {
+  color: blue;
+}
+
 .recipe-links {
   text-align: center;
 }
@@ -52,6 +61,11 @@ img {
 
 .recipe-link:hover {
   color: blue;
+}
+
+.middle-nav-link {
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .recipes-background {
