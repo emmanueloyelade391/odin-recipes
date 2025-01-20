@@ -36,6 +36,15 @@ img {
   margin-right: auto;
 }
 
+.recipe-link {
+  color: red;
+  font-size: 30px;
+}
+
+.recipe-link:hover {
+  color: blue;
+}
+
 .recipes-background {
   background-color: rgb(184, 231, 247);
 }
