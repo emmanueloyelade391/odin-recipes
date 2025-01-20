@@ -29,6 +29,7 @@ h2 {
 .home-image {
   display: inline;
   margin-top: 10px; 
+  border-radius: 5px;
 }
 
 img {
