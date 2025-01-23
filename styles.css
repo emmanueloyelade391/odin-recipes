@@ -72,6 +72,14 @@ img {
   border-radius: 5px;
 }
 
+.description {
+  font-size: 20px;
+}
+
+.description-heading, .ingredients-heading, .steps-heading {
+  font-size: 30px;
+}
+
 .recipes-background {
   background-color: rgb(184, 231, 247);
 }
