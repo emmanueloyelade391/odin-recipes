@@ -88,6 +88,10 @@ img {
   font-size: 30px;
 }
 
+.ingredient-quantity {
+  font-weight: bold;
+}
+
 .recipes-background {
   background-color: rgb(184, 231, 247);
 }
