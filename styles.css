@@ -10,6 +10,7 @@ h1 {
 }
 
 h2 {
+  font-size: 30px;
   text-decoration: underline;
 }
 
@@ -82,10 +83,6 @@ img {
 
 .description {
   font-size: 20px;
-}
-
-.description-heading, .ingredients-heading, .steps-heading {
-  font-size: 30px;
 }
 
 .ingredient-quantity {
